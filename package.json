@@ -1,0 +1,11 @@
+{
+  "name": "projeto-web",
+  "version": "1.0.0",
+  "description": "Página web simples com CI/CD completo",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
